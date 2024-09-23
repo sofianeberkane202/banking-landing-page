@@ -1,0 +1,62 @@
+# Node modules (for npm)
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Parcel cache and build files
+.cache/
+dist/
+
+# Output of npm/yarn
+package-lock.json
+yarn.lock
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Coverage and test reports
+coverage/
+.nyc_output/
+*.lcov
+
+# Optional npm cache
+.npm/
+
+# Temporary files
+tmp/
+temp/
+
+# Webstorm IDE settings
+.idea/
+
+# MacOS Finder settings
+.DS_Store
+
+# Linux directory file
+.directory
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Parcel config files
+.parcel-cache/
+
+# Build files
+/build/
